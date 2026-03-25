@@ -1,5 +1,3 @@
-![Image](https://github.com/user-attachments/assets/443b2bc5-da3d-4bee-bce6-7db22e85bdf5)
-
 # RoboTupiniquim.ConsoleApp
 
 Um projeto em **C# Console Application** que simula o movimento de um robô em uma grade 2D.  
