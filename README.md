@@ -1,10 +1,4 @@
-<video src="https://github.com/user-attachments/assets/7ada58aa-51f8-4cc2-8b32-5c70361cad61" 
-       width="600" 
-       autoplay 
-       loop 
-       muted 
-       playsinline>
-</video>
+![Image](https://github.com/user-attachments/assets/443b2bc5-da3d-4bee-bce6-7db22e85bdf5)
 
 # RoboTupiniquim.ConsoleApp
 
